@@ -1,4 +1,8 @@
+[image1]: ./imgs/result.png
+
 ## Сeleraone-Test-Solution
+
+---
 
 ## Task
 
@@ -17,5 +21,21 @@ You get bonus points if you provide a solution that could in principle be scaled
 
 ---
 
+## Pipeline
 
+1. Load/Parse features
+
+2. Load/Parse labels
+
+3. Load/Parse feature names
+
+4. Perform evaluation of feature importance with **Mean decrease impurity method** (Using `feature_importances_` measure from `RandomForestRegressor`, sklearn library)
+
+5. Sort/Visualize the result
+
+Good article about selecting good feature is [HERE](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/) 
+
+## Result
+
+![alt text][image3]
 
