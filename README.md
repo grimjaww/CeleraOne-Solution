@@ -33,9 +33,9 @@ You get bonus points if you provide a solution that could in principle be scaled
 
 5. Sort/Visualize the result
 
-Good article about selecting good feature is [HERE](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/) 
+Useful article about selecting good feature is [HERE](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/) 
 
 ## Result
 
-![alt text][image3]
+![alt text][image1]
 
