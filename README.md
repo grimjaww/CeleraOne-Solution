@@ -1,6 +1,6 @@
 [image1]: ./imgs/result.png
 
-## Сeleraone-Test-Solution
+## Сeleraone-Test-Solution (pre-interview task)
 
 ---
 
@@ -33,7 +33,7 @@ You get bonus points if you provide a solution that could in principle be scaled
 
 5. Sort/Visualize the result
 
-Useful article about selecting good feature is [HERE](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/) 
+Useful article about selecting a good feature is [HERE](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/) 
 
 ## Result
 
